@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a credit risk model<br>👯 I’m looking to collaborate on machine learning models<br>🌱 I’m currently learning power BI and JS frames and mern stack<br>💬 Ask me about anything!<br>⚡ Fun fact: I wanted to become a data scientist but I accidentaly applied for business analyst and here I am :)
+🔭 I’m currently working on Rentpilot<br>👯 I’m looking to collaborate on machine learning models<br>🌱 I’m currently learning power BI and JS frames and mern stack<br>💬 Ask me about anything!<br>⚡ Fun fact: I wanted to become a data scientist but I accidentaly applied for business analyst and here I am :)
 
 
 ## 🌐 Socials:
